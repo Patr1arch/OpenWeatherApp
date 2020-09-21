@@ -1,0 +1,13 @@
+C:\Third semester 2019-2020 academic year\OpenWeatherMapApp\OpenWeatherMapApp\OpenWeatherMapApp\bin\Debug\netstandard2.0\OpenWeatherMapApp.deps.json
+C:\Third semester 2019-2020 academic year\OpenWeatherMapApp\OpenWeatherMapApp\OpenWeatherMapApp\bin\Debug\netstandard2.0\OpenWeatherMapApp.dll
+C:\Third semester 2019-2020 academic year\OpenWeatherMapApp\OpenWeatherMapApp\OpenWeatherMapApp\bin\Debug\netstandard2.0\ref\OpenWeatherMapApp.dll
+C:\Third semester 2019-2020 academic year\OpenWeatherMapApp\OpenWeatherMapApp\OpenWeatherMapApp\bin\Debug\netstandard2.0\OpenWeatherMapApp.pdb
+C:\Third semester 2019-2020 academic year\OpenWeatherMapApp\OpenWeatherMapApp\OpenWeatherMapApp\obj\Debug\netstandard2.0\OpenWeatherMapApp.csprojAssemblyReference.cache
+C:\Third semester 2019-2020 academic year\OpenWeatherMapApp\OpenWeatherMapApp\OpenWeatherMapApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Third semester 2019-2020 academic year\OpenWeatherMapApp\OpenWeatherMapApp\OpenWeatherMapApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Third semester 2019-2020 academic year\OpenWeatherMapApp\OpenWeatherMapApp\OpenWeatherMapApp\obj\Debug\netstandard2.0\OpenWeatherMapApp.AssemblyInfoInputs.cache
+C:\Third semester 2019-2020 academic year\OpenWeatherMapApp\OpenWeatherMapApp\OpenWeatherMapApp\obj\Debug\netstandard2.0\OpenWeatherMapApp.AssemblyInfo.cs
+C:\Third semester 2019-2020 academic year\OpenWeatherMapApp\OpenWeatherMapApp\OpenWeatherMapApp\obj\Debug\netstandard2.0\OpenWeatherMapApp.dll
+C:\Third semester 2019-2020 academic year\OpenWeatherMapApp\OpenWeatherMapApp\OpenWeatherMapApp\obj\Debug\netstandard2.0\ref\OpenWeatherMapApp.dll
+C:\Third semester 2019-2020 academic year\OpenWeatherMapApp\OpenWeatherMapApp\OpenWeatherMapApp\obj\Debug\netstandard2.0\OpenWeatherMapApp.pdb
+C:\Third semester 2019-2020 academic year\OpenWeatherMapApp\OpenWeatherMapApp\OpenWeatherMapApp\obj\Debug\netstandard2.0\XamlC.stamp
